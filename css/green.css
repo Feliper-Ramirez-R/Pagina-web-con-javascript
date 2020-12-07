@@ -1,0 +1,24 @@
+body{
+	background: url('../img/paisajes_1.jpg');
+	background-attachment: fixed;
+}
+
+
+#logo{
+	
+	background: #235E3D;
+}
+
+#menu ul li:hover{
+	background: #235E3D;
+}
+
+.button_more{
+	
+	background: #235E3D;
+}
+
+#acordeon h3{
+	
+	background: #235E3D;
+} 
